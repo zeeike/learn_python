@@ -1,8 +1,6 @@
 Learn Python - Full Course for Beginners
 https://www.youtube.com/watch?v=rfscVS0vtbw&t=6007s
 
-Up to (3:00:18) Comments 
-
 ⌨️ (0:00) Introduction 
 ⌨️ (1:45) Installing Python & PyCharm 
 ⌨️ (6:40) Setup & Hello World 
